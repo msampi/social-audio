@@ -1,0 +1,5 @@
+export const config = {
+  APP_ID: 'ea63723ae97941b38fe09353c67f8263',
+  TOKEN: '006ea63723ae97941b38fe09353c67f8263IAAkebuVoaZqCez4qZExgerRmtF0WIwmYSszcw8mCjuhsURI0CUAAAAAEAALrnX46twuYQEAAQDp3C5h',
+  CHANNEL_NAME: 'cuti',
+};
